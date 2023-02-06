@@ -27,4 +27,4 @@ public class MyApp : Gtk.Application {
         return new MyApp ().run (args);
     }
 }
-cd .
+

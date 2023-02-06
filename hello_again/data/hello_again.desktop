@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=Myapp
+Comment=Test my app
+Categories=Development;Debugger;
+
+Icon=myapp
+Exec=myapp
+Terminal=false

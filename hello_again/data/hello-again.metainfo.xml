@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.serge_88.myapp</id>
+  
+  <name>Myapp</name>
+  <summary>Test my app</summary>
+  
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  
+  <description>
+    <p>
+      skh,bfvk,zdbvkjzdb
+    </p>
+  </description>
+  
+  <launchable type="desktop-id">io.github.serge_88.myapp.desktop</launchable>
+</component>
+
+<content_rating type="oars-1.1" />
+
+<branding>
+  <color type="primary">#f37329</color>
+</branding>
+
+<custom>
+  <value key="x-appcenter-suggested-price">5</value>
+  <value key="x-appcenter-stripe">pk_live_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</value>
+</custom>
+
+<releases>
+  <release version="1.0.0" date="2022-09-08" urgency="medium">
+    <description>
+      <p>New features:</p>
+      <ul>
+        <li>My app can now do a great new thing</li>
+      </ul>
+      <p>Fixes:</p>
+      <ul>
+        <li>An annoying behavior no longer occurs</li>
+      </ul>
+    </description>
+  </release>
+</releases>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<schemalist>
+	<schema path="/com/github/serge-88/elementary_app/" id="com.github.serge-88.elementary_app">
+		<key name="pos-x" type="i">
+			<default>250</default>
+			<summary>Horizontal position</summary>
+			<description>Save the horizontal position of a Window</description>
+		</key>
+
+		<key name="pos-y" type="i">
+			<default>250</default>
+			<summary>Vertical position</summary>
+			<description>Save the vartical position of a Window</description>
+		</key>
+
+		<key name="window-width" type="i">
+			<default>400</default>
+			<summary>Window width</summary>
+			<description>Save Window width</description>
+		</key>
+
+		<key name="window-height" type="i">
+			<default>200</default>
+			<summary>Window height</summary>
+			<description>Save Window height</description>
+		</key>
+	</schema>
+</schemalist>
